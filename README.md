@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Development-Workspace-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Development-Workspace-Platform?style=flat-square" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Development-Workspace-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Development-Workspace-Platform?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Development-Workspace-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Development-Workspace-Platform?style=flat-square" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Development-Workspace-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Development-Workspace-Platform?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,9 +60,9 @@ Below is a curated comparison of leading enterprise SaaS and hosted Cloud Develo
 
 ## 🔓 Open-Source GitHub Projects
 
-Development workspace platforms feature a mature, production-grade open-source ecosystem. Below is the list of top open-source projects, sorted strictly by their GitHub star count in descending order. 🌟
+Development workspace platforms feature a mature, production-grade open-source ecosystem. Below is the list of top open-source projects, sorted strictly by their GitHub Stars_Count in descending order. 🌟
 
-| Project & Repo 📦 | Star Count ⭐️ | License 📜 | Ecosystem Role & Category 🎯 | Key Features & Highlights 🚀 |
+| Project & Repo 📦 | Stars_Count ⭐️ | License 📜 | Ecosystem Role & Category 🎯 | Key Features & Highlights 🚀 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[code-server](https://github.com/coder/code-server)** <br> `coder/code-server` | [<img src="https://img.shields.io/github/stars/coder/code-server?style=social&color=white" alt="code-server stars"/>](https://github.com/coder/code-server/stargazers) | `MIT` | Client-Only / Browser IDE | Run VS Code in any browser on a remote server; lightweight Docker setup for individual developers. |
 | **[Daytona](https://github.com/daytonaio/daytona)** <br> `daytonaio/daytona` | [<img src="https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white" alt="daytona stars"/>](https://github.com/daytonaio/daytona/stargazers) | `AGPL-3.0` | AI Agent Sandbox Engine | Sub-200ms sandbox creation for AI agent code execution; programmatic File, Git, LSP, and Execute APIs. |
@@ -89,7 +89,7 @@ Contributions are warmly welcomed! Help keep this ecosystem guide comprehensive 
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` following the tabular format.
-3. 🔎 **Provide accurate details**: Name, starting pricing, free tier limits, star count, and factual description.
+3. 🔎 **Provide accurate details**: Name, starting pricing, free tier limits, Stars_Count, and factual description.
 4. 🚀 **Submit a Pull Request** with a clear explanation of your additions.
 
 ---
@@ -111,3 +111,12 @@ Thank you for being part of the open-source developer experience community! 🙏
 - This is a **community-curated list** — for informational purposes only and not an endorsement.
 - Development workspace platforms handle sensitive source code and credentials; ensure appropriate zero-trust security controls and enterprise compliance policies.
 - Open-source platforms like **Coder**, **DevPod**, and **Daytona** offer data sovereignty and infrastructure cost savings, while commercial SaaS platforms (e.g. GitHub Codespaces, Ona) provide managed control planes and integrated AI workflows.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Development-Workspace-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Development-Workspace-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Development-Workspace-Platform_growth.svg">
+  </picture>
+</a>

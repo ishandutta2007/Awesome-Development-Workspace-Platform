@@ -60,7 +60,7 @@ Below is a curated comparison of leading enterprise SaaS and hosted Cloud Develo
 
 ## 🔓 Open-Source GitHub Projects
 
-Development workspace platforms feature a mature, production-grade open-source ecosystem. Below is the list of top open-source projects, sorted strictly by their GitHub Stars_Count in descending order. 🌟
+Development workspace platforms feature a mature, production-grade open-source ecosystem. Below is the list of top open-source projects, sorted strictly by their GitHub_Stars_Count in descending order. 🌟
 
 | Project & Repo 📦 | Stars_Count ⭐️ | License 📜 | Ecosystem Role & Category 🎯 | Key Features & Highlights 🚀 |
 | :--- | :--- | :--- | :--- | :--- |
